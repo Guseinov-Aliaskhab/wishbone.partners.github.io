@@ -1,0 +1,11 @@
+:root {
+    --primary-background: #FFF;
+    --secondary-background: #ECE7E4;
+    --section-background:  #403E3B;
+    --primary-font-family: "Poppins", sans-serif;
+    --primary-color: #1B1A1A;
+    --title-font-size: 64px;
+    --subtitle-font-size: 32px;
+    --main-text-font-size: 16px;
+    --nav-text-font-size: 15px;
+}
